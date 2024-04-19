@@ -13,7 +13,7 @@
     --container-width-sm: 80%;
 }
 body {
-    background: hsl(220, 15%, 55%);
+    background: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
 }
 .card-box {
@@ -33,13 +33,14 @@ body {
 .card-box .content {
     padding: 5px;
 }
-.card-box .content h3{
+.card-box .content h1{
+    font-size: 20px;
     color: hsl(220, 15%, 55%);
     padding-top: 10px;
     font-weight: 700;
 }
 .card-box .content p{
-    color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%);
     padding-top: 15px;
     font-size: 14px;
     font-weight: 400;
