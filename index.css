@@ -37,6 +37,7 @@ body {
     color: hsl(220, 15%, 55%);
 }
 .card-box .content h1{
+    color: hsl(218, 44%, 22%);
     font-size: 22px;
     line-height: 28px;
     font-weight: 700;
